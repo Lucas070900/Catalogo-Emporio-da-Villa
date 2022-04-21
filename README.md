@@ -1,3 +1,3 @@
 # Catalago-Emporio-da-Villa
-Catalogo para venda
+Catalogo de preços.
 
